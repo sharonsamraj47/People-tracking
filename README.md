@@ -1,2 +1,2 @@
 # People-tracking
-# This tarcking code detects people on the whole 
+# This tracking code detects people on the whole 
